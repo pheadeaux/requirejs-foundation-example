@@ -76,7 +76,7 @@ Since foundation itself is not using AMD the components are meant to be loaded a
 
 
 ```javascript
-// ./js/foundation.min.js (modified)
+// ./js/vendor/custom.foundation.js (modified)
 
 define(function(require) {
 	var $ = require('domLib');
